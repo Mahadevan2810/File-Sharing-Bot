@@ -46,9 +46,11 @@ I Guess This Will Be Usefull For Many People.....😇.
 #### Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
 <a href="https://heroku.com/deploy?template=https://github.com/Mahadevan2810/File-Sharing-Bot"
-   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
-</a><br>
+   </a>
+ </p>
+</details>
+
+
 **Check This Tutorial Video on YouTube for any Help**<br>
 **Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
 
